@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到欣华中文学校博客网
 
 You can use the [editor on GitHub](https://github.com/gw4it/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
